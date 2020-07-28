@@ -1,0 +1,26 @@
+{
+  "name": "doodleblue",
+  "version": "1.0.0",
+  "description": "doodleblue test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eshwar609/doodleblue.git"
+  },
+  "author": "eshwar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.26",
+    "shortid": "https://github.com/eshwar609/doodleblue.git^2.2.15"
+  }
+}
